@@ -8,7 +8,8 @@
 - **Download Android Games**: Easily download games for your Android device.
 - **Android Mod Apps & Games**: Download Premium Android Games & Apps Free.
 - **Movies and Web Series**: Fetch the latest movies and series directly to your system.
-- **How to use**:
+
+## How to use
 **Option 1**: Opens the section for downloading PC games.
 **Option 2**: Takes you to the Android games download menu.
 **Option 3**: Allows you to select and download movies.
@@ -49,8 +50,6 @@ Basic understanding of command-line usage
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Author
 trfahim
