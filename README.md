@@ -10,6 +10,17 @@
 - **Movies and Web Series**: Fetch the latest movies and series directly to your system.
 - **User-Friendly**: Simple and intuitive command-line interface.
 
+**Menu Options**
+Option 1: Opens the section for downloading PC games.
+Option 2: Takes you to the Android games download menu.
+Option 3: Allows you to select and download movies.
+Option 4: Browse and download web series.
+Option 0: Exit the program.
+Users can select an option by typing the corresponding number and pressing Enter. For example:
+
+Type 1 and press Enter to start downloading PC games.
+Type 0 and press Enter to exit the program.
+
 ## How It Works
 
 The program leverages Python's `requests`, `time`, and `os` libraries to download the content. It uses basic control structures like `if`, `else`, `elif`, and `while` loops to manage the flow of the program and ensure efficient downloading.
