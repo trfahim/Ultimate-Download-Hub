@@ -10,7 +10,7 @@
 - **Movies and Web Series**: Fetch the latest movies and series directly to your system.
 - **User-Friendly**: Simple and intuitive command-line interface.
 
-**Menu Options**
+**How to use**:
 Option 1: Opens the section for downloading PC games.
 Option 2: Takes you to the Android games download menu.
 Option 3: Allows you to select and download movies.
