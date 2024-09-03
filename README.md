@@ -9,14 +9,14 @@
 - **Android Mod Apps & Games**: Download Premium Android Games & Apps Free.
 - **Movies and Web Series**: Fetch the latest movies and series directly to your system.
 
-## How to use
+## How to Use
 **Option 1**: Opens the section for downloading PC games.
 **Option 2**: Takes you to the Android games download menu.
 **Option 3**: Allows you to select and download movies.
 **Option 4**: Browse and download web series.
 **Option 0**: Exit the program.
-Users can select an option by typing the corresponding number and pressing Enter. For example:
-
+Users can select an option by typing the corresponding number and pressing Enter. 
+For example:
 Type 1 and press Enter to start downloading PC games.
 Type 0 and press Enter to exit the program.
 
