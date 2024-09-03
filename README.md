@@ -4,8 +4,9 @@
 
 ## Features
 
-- **Download PC Games**: Get your favorite PC games without any hassle.
+- **Download PC Games**: Get your favorite PC games without any hassle & Full Free.
 - **Download Android Games**: Easily download games for your Android device.
+- **Android Mod Apps & Games**: Downlaod Premium Android Games & Apps Free.
 - **Movies and Web Series**: Fetch the latest movies and series directly to your system.
 - **User-Friendly**: Simple and intuitive command-line interface.
 
